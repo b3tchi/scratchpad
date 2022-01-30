@@ -1,0 +1,3 @@
+subscr='LEGO-DT-OMP-LRMP-DevTest'
+
+az account set --subscription ${subscr}
