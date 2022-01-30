@@ -14,7 +14,7 @@ terraform fmt
 login to az
 set proprer subscription
 ```bash
-subscrname="Visual Studio Enterprise Subscription"
+subscrname="visual studio enterprise subscription"
 az login
 az account set --subscription $subscrname
 ```

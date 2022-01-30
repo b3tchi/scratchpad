@@ -7,7 +7,7 @@ serverName="webappwithsql${rnd}"
 location="germanywestcentral"
 startip="0.0.0.0"
 endip="0.0.0.0"
-username="!4dm1n1str4t0r"
+username="@4djm1n1str4t0r"
 sqlServerPassword="admin@123456"
 
 # Create a resource group
